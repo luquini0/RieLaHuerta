@@ -3021,6 +3021,7 @@ ol {
 	}
 	.humberger__menu__logo a {
 		display: flex;
+		text-align: center;
 		justify-content: center;
 	}
 	.humberger__menu__contact {
