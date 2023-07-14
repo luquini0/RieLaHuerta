@@ -550,6 +550,7 @@ ol {
 
 .humberger__menu__wrapper {
 	display: none;
+	justify-content: center;
 }
 
 .humberger__open {
@@ -3019,7 +3020,6 @@ ol {
 		justify-content: center;
 	}
 	.humberger__menu__logo a {
-		display: inline-block;
 		display: flex;
 		justify-content: center;
 	}
